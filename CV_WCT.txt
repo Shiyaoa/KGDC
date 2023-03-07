@@ -1,0 +1,68 @@
+Computer vision	1	Object detection
+Computer vision	1	motion estimation
+Computer vision	1	Video tracking
+Computer vision	1	Image segmentation
+Computer vision	1	Object recognition and Classification
+Computer vision	1	Medical imaging
+Computer vision	1	Image generation
+Computer vision	1	Gesture recognition
+Computer vision	1	machine vision
+Computer vision	1	image restoration and enhancement
+Object detection	2	Object Counting and Monitoring
+Object detection	2	Moving object detection
+Object detection	2	Pedestrian detection
+Object detection	2	Fatigue detection 
+Object detection	2	optical inspection
+motion estimation	2	Activity recognition
+motion estimation	2	Visual temporal attention
+motion estimation	2	Motion analysis
+motion estimation	2	Motion compensation
+motion estimation	2	Motion detection
+motion estimation	2	Motion capture
+Video tracking	2	Video content analysis
+Video tracking	2	Video motion analysis
+Video tracking	2	video surveillance
+Video tracking	2	Target representation and localization
+Video tracking	2	Eye tracking
+Video tracking	2	Pose tracking
+Image segmentation	2	Instance segmentation
+Image segmentation	2	Panoptic segmentation
+Image segmentation	2	semantic segmentation
+Image segmentation	2	Object co-segmentation
+Image segmentation	2	Rigid motion segmentation
+Object recognition and Classification	2	target recognition
+Object recognition and Classification	2	Handwriting recognition
+Object recognition and Classification	2	Optical character recognition
+Object recognition and Classification	2	Audio-visual speech recognition
+Object recognition and Classification	2	image annotation
+Object recognition and Classification	2	Contextual image classification
+Object recognition and Classification	2	Visual Commonsense Reasoning
+Object recognition and Classification	2	Face detection and recognition
+Medical imaging	2	Magnetic resonance imaging
+Medical imaging	2	Medical photography and illustration
+Medical imaging	2	Molecular imaging
+Medical imaging	2	Atlas-Based Segmentation
+Medical imaging	2	Computer-aided diagnosis
+Medical imaging	2	3D Scene reconstruction
+Image generation	2	Deepfake
+Image generation	2	StyleGAN
+Image generation	2	Text-to-image generation
+Image generation	2	Diffusion model
+Image generation	2	Variational autoencoder
+Image generation	2	Neural style transfer
+Gesture recognition	2	Human pose estimation
+Gesture recognition	2	3D pose estimation
+Gesture recognition	2	Leeds Sports Poses
+Gesture recognition	2	human body language
+machine vision	2	visual servoing
+machine vision	2	Automated planning and scheduling
+machine vision	2	Robots
+machine vision	2	Self-driving cars
+machine vision	2	Autonomous car
+image restoration and enhancement	2	Geometric correction
+image restoration and enhancement	2	radiometric correction
+image restoration and enhancement	2	noise removal
+image restoration and enhancement	2	image enhancement
+image restoration and enhancement	2	Super resolution 
+image restoration and enhancement	2	JPEG Artifacts Removal
+image restoration and enhancement	2	Image Deblurring

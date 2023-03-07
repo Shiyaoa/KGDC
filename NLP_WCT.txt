@@ -1,0 +1,150 @@
+Natural language processing	1	Natural language understanding
+Natural language processing	1	Natural language generation
+Natural language processing	1	Natural language parsing
+Natural language processing	1	Machine translation
+Natural language processing	1	Statistical NLP
+Natural language processing	1	Computational semantics
+Natural language processing	1	Text mining
+Natural language processing	1	Neural Language model
+Natural language processing	1	Speech processing
+Natural language processing	1	Knowledge representation and reasoning
+Natural language processing	1	Information extraction
+Natural language processing	1	Language model
+Natural language understanding	2	Query understanding
+Natural language understanding	2	machine reading comprehension
+Natural language understanding	2	natural-language interpretation
+Natural language understanding	2	automated reasoning
+Natural language understanding	2	Question answering
+Natural language generation	2	report generation
+Natural language generation	2	Chatbots
+Natural language generation	2	dialogue systems
+Natural language generation	2	Creative writing and computational humor
+Natural language generation	2	generate textual summaries
+Natural language generation	2	visual question answering
+Natural language generation	2	Image captioning
+Natural language parsing	2	Grammar checker
+Natural language parsing	2	Grammar induction
+Natural language parsing	2	Conceptual dependency 
+Natural language parsing	2	Data-oriented parsing
+Natural language parsing	2	grammar
+Natural language parsing	2	Constituent Parsing
+Natural language parsing	2	Dependency parsing 
+Natural language parsing	2	Link grammar
+Natural language parsing	2	Morphological parsing
+Natural language parsing	2	Shallow parsing
+Natural language parsing	2	Statistical parsing
+Natural language parsing	2	Synchronous context-free grammar
+Natural language parsing	2	Grammatical error correction
+Natural language parsing	2	Syntactic parsing 
+Natural language parsing	2	word segmentation
+Machine translation	2	Bitext word alignment
+Machine translation	2	Dictionary-based machine translation
+Machine translation	2	Distributed Language Translation
+Machine translation	2	Evaluation of machine translation
+Machine translation	2	Example-based machine translation
+Machine translation	2	Hybrid machine translation
+Machine translation	2	IBM alignment models
+Machine translation	2	Interactive machine translation
+Machine translation	2	Interlingual machine translation
+Machine translation	2	Mobile translation
+Machine translation	2	Neural machine translation
+Machine translation	2	translation evaluation
+Machine translation	2	Round-trip translation
+Machine translation	2	Rule-based machine translation
+Machine translation	2	Statistical machine translation
+Machine translation	2	Transfer-based machine translation
+Machine translation	2	Translation unit
+Machine translation	2	Universal Networking Language
+Statistical NLP	2	Stochastic grammar
+Statistical NLP	2	Additive smoothing
+Statistical NLP	2	Collostructional analysis
+Statistical NLP	2	Dissociated press
+Statistical NLP	2	Dynamic topic model
+Statistical NLP	2	part-of-speech tagging
+Statistical NLP	2	Frederick Jelinek
+Statistical NLP	2	Latent Dirichlet allocation
+Statistical NLP	2	Markov information source
+Statistical NLP	2	Markovian discrimination
+Statistical NLP	2	Maximum-entropy Markov model
+Statistical NLP	2	hidden Markov models
+Statistical NLP	2	Noisy channel model
+Statistical NLP	2	Pachinko allocation
+Statistical NLP	2	Probabilistic latent semantic analysis
+Statistical NLP	2	Sinkov statistic
+Statistical NLP	2	Statistical semantics
+Statistical NLP	2	Topic model
+Statistical NLP	2	Trigram tagger
+Statistical NLP	2	Probabilistic context-free grammar
+Statistical NLP	2	Phrase structure grammar
+Computational semantics	2	Semantic analytics
+Computational semantics	2	Semantic compression
+Computational semantics	2	Semantic decomposition
+Computational semantics	2	Semantic folding
+Computational semantics	2	Semantic interpretation
+Computational semantics	2	Semantic neural network
+Computational semantics	2	Semantic space
+Computational semantics	2	Explicit semantic analysis
+Computational semantics	2	Latent semantic analysis
+Computational semantics	2	Latent semantic mapping
+Computational semantics	2	Semantic parsing
+Computational semantics	2	Semantic role labeling
+Computational semantics	2	Distributional semantics
+Computational semantics	2	Lexical semantics
+Computational semantics	2	Naive semantics
+Computational semantics	2	Content determination
+Computational semantics	2	Stochastic semantic analysis
+Text mining	2	text categorization
+Text mining	2	Textual entailment
+Text mining	2	Text graph
+Text mining	2	Text normalization
+Text mining	2	text clustering
+Text mining	2	Textual case-based reasoning
+Text mining	2	scientific literature mining
+Text mining	2	Concept mining
+Text mining	3	Sentiment analysis
+Text mining	2	text summarization
+Text mining	2	taxonomy construction
+Text mining	2	argument mining
+Text mining	2	Disambiguation
+Text mining	2	Document classification
+Text mining	2	Document clustering
+Text mining	2	Text Classification
+Text mining	2	Document-term matrix
+Neural Language model	2	GPT 
+Neural Language model	2	RNN
+Neural Language model	2	N-gram
+Neural Language model	2	Sentence embedding
+Neural Language model	2	Word2vec
+Neural Language model	2	representation learning
+Neural Language model	2	Word embedding
+Neural Language model	2	LSTM
+Neural Language model	2	Bag-of-words model
+Neural Language model	2	BERT 
+Neural Language model	2	ELMo
+Neural Language model	2	sequence to sequence
+Neural Language model	2	Prompt engineering
+Neural Language model	2	Transformer
+Speech processing	2	Speech segment
+Speech processing	2	Speech Recognition
+Speech processing	2	Speech synthesis
+Speech processing	2	Speaker recognition
+Speech processing	2	text-to-speech
+Speech processing	2	Phonology
+Information extraction	2	Named entity recognition
+Information extraction	2	Coreference resolution
+Information extraction	2	Relationship extraction
+Information extraction	2	Table extraction
+Information extraction	2	Table information extraction
+Information extraction	2	Comments extraction
+Information extraction	2	Terminology extraction
+Information extraction	2	Event extraction
+Information extraction	2	Concept extraction
+Information extraction	2	Keyword extraction
+Information extraction	2	Phrase extraction
+Knowledge representation and reasoning	2	Ontology 
+Knowledge representation and reasoning	2	Commonsense knowledge base
+Knowledge representation and reasoning	2	Conceptual graph
+Knowledge representation and reasoning	2	Knowledge graph
+Knowledge representation and reasoning	2	Knowledge management
+Knowledge representation and reasoning	2	semantic nets
+Knowledge representation and reasoning	2	automated reasoning
