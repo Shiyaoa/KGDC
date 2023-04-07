@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ex="http://example.com/onto.owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_segmentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Text-to-image_generation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Shadow_Removal_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Dense_Prediction">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_segmentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#surgical_navigation_image">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#traffic_sign_recognition_and_detection_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Multispectral_imaging">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computational_Photography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Autonomous_car">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#machine_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#face_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Face_Forgery">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#road_image_segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#point_set_registration">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Point_Cloud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#vehicle_navigation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Rotation_Object_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#_online_multi_object_tracking_mot">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Point_Cloud">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#3D_Vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Self-driving_cars">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_and_Video_Processing">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Neural_style_transfer">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Video_Object_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Novel_View_Synthesis">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#3D_Vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#HDR">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computational_Photography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#robot_navigation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Robots"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#image_classification">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_recognition_and_Classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#point_detector_system">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Point_Cloud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Saliency_Object_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Motion_capture">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Satellite_Imagery">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#machine_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Target_localization">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#3D_modeling">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#3D_Vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Denoising">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Aerial_Image_Segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#machine_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#landmark_identification">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#computer_aided_diagnosis">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#target_recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_recognition_and_Classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Face_Editing">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#person_re-identifification">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#organ__segment">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Method">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_retrieval">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_recognition_and_Classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Light_Field_Imaging">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computational_Photography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#video_surveillance">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Lane_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Video_Object_Segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_segmentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#tumors_segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Edit_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Vanishing_Point_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Human-Object_Interaction">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#use">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Action_Recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_recognition_and_Classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Outlier_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Object_detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Panoptic_Segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_segmentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Instance_Segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_segmentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Satellite_Photogrammetry">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Satellite_Imagery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#discrimination_of_lesion_image">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#tamper_detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Histopathology">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#image_annotation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_recognition_and_Classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#machine_vision">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Unmanned_Aerial_Vehicles">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#machine_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Edge_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#point_cloud_alignment">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Point_Cloud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Anomaly_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Biometric_identification">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Drones_Videos">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#machine_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#single_view_3d_object_reconstruction">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#3D_Vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image-to-Image_Translation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Motion_compensation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_generation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Scene_Graph_Generation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Computational_Photography">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#point_pattern_matching">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Point_Cloud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#geographic_location">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#depth-of-field_control">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computational_Photography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Matting">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_segmentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Computed_Tomography">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#license_plate_recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#3D_Vision">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#digitize_anatomy">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Flow_Estimation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#vehicle_tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Medical_imaging">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#endoscopic_vision">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Medical_photography_and_illustration">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Medical_Image_Segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Reconstruction">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#_long_term_tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#hyperspectral_image_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Satellite_Imagery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#visual_servoing">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#machine_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Motion_analysis">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Style_Transfer">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Magnetic_Resonance_Image_Reconstruction">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Face_Synthesis">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#High_Dynamic_Range_Imaging">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computational_Photography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#change_detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#X-ray_images">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Motion_Estimation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#_moving_target_tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Visual_temporal_attention">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Translation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#points_cloud_matching">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Point_Cloud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#generation_of_point_cloud">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Point_Cloud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#robotic_manipulator_perception">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Robots"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Visual_Object_Tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Holography">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#3D_Vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Human_Parsing">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#recognition_of_3d_shape">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#3D_Vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Object_recognition_and_Classification">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#lesion_segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Video_Stabilization">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#image_estimation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#object_tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computer_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Biomedical_Images">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Medical_imaging"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#vehicle_object_detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Activity_recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Optical_character_recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_recognition_and_Classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Face_Reconstruction">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#road_crossing_detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#depth_estimation_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computational_Photography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Human_Pose_Estimation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Pose_tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Single_Object_Tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Panorama_Stitching">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computational_Photography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#StyleGAN">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Facial_beautification_and_enhancement">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Computational_Photography"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#3d_point_cloud_registration_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Point_Cloud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Scene_text_recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_recognition_and_Classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#significance_detection_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Keypoint_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Camouflaged_Object_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_detection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#road_detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Superpixel">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_segmentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Inpainting">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Face_Generation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#remote_sensing">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Satellite_Imagery"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#vehicle_re_identification">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Autonomous_car"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#3d_point_cloud_segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Point_Cloud"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Synthesis">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#gait_recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Diffusion_model">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Facial_Recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Gesture_Estimation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#image_estimation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_compression">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#3D_Reconstruction">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#3D_Vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Handwriting_recognition">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Object_recognition_and_Classification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Semantic_Segmentation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_segmentation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Super_Resolution">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Robots">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#machine_vision"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Eye_tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Face_Anti-Spoofing">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#detecting_vital_sign">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Pedestrian_Detection">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#biometric_presentation_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Biometric_identification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#is_a">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Computer_vision">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Restoration_">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Multi-object_Tracking">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#object_tracking"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Domain_Adaptation">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_generation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Image_Reflection_Removal">
+    <rdf:type rdf:resource="http://example.com/onto.owl#Task"/>
+    <ex:is_a rdf:resource="http://example.com/onto.owl#Image_and_Video_Processing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/onto.owl#Task">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>
